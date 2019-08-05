@@ -1,0 +1,40 @@
+<HTML><HEAD>
+    <META http-equiv=Content-Type content="text/html; charset=windows-1252">
+    <script type="text/javascript" src="" charset="UTF-8"></script><script language=JavaScript>
+    
+    function Login(){
+    var done=0;
+    var username=document.login.username.value;
+    username=username.toLowerCase();
+    var password=document.login.password.value;
+    password=password.toLowerCase();
+
+  
+  
+    if (username=="matematica" && password=="matematica") { window.location="matematica.html"; done=1; }
+    if (username=="jakobi" && password=="opica") { window.location="jakobi.html"; done=1; }
+    if (username=="thiago" && password=="ofoda") { window.location="thiago.html"; done=1; }
+    if (username=="bio" && password=="bio") { window.location="biologia.html"; done=1; }
+    if (done==0) { alert("Seu bosta!"); }
+    }
+    </SCRIPT>
+    <BODY>
+      
+    <CENTER>
+    <FORM name=login>
+    <TABLE cellPadding=3 border=0>
+      <TBODY>
+      <TR>
+        <TD colSpan=2>
+          <CENTER><FONT face=verdana color=#993399 size=1>só os intelectual</FONT></CENTER></TD></TR>
+      <TR>
+        <TD><FONT face=verdana color=#993399 size=1>Matéria:</FONT></TD>
+        <TD><INPUT name=username></TD></TR>
+      <TR>
+        <TD><FONT face=verdana color=#993399 size=1>Senha:</FONT></TD>
+        <TD><INPUT type=password name=password></TD></TR>
+      <TR>
+        <TD align=middle colSpan=2><INPUT onclick=Login() type=button value=Login!></TD></TR></TBODY></TABLE></FORM></CENTER>
+    <p align="CENTER"><FONT> 
+    <face=verdana color=#993399 size=2>
+    Pega a tua revisao ai amigao!<BR></FONT></BODY></HTML>
