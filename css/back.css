@@ -10,9 +10,8 @@ body {
   padding:0px;
   padding-top: 0%;
   top: 0px;
-  font-family: "harmony";
-  font-size: 20px;
   border-top: 0%;
+  font-size: 20px;
   width: 100%;
   background-image: url(https://c.wallhere.com/photos/a3/38/1360x768_px_Fire_Watch_Green_landscape_Moon_nature_night-1266367.jpg!d);
   background-size: 100%;
@@ -22,7 +21,9 @@ body {
 }
 
 p{
-  color: red
+  color: red;
+  font-family: "harmony";
+  
 }
 
 
