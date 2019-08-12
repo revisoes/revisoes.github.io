@@ -36,7 +36,6 @@
   #menu{
   top: 50%;
   width: 10em;
-  margin: 0;
   z-index: 5;
   background: transparent;
   color:red;
@@ -46,7 +45,7 @@
   border: solid green;
   border-right: none;
   padding: 1em 1em 1em 1em;
-  box-shadow: 0 1px 3px rgb(0, 0, 0);
+  box-shadow: 3px 3px 3px rgb(0, 0, 0);
   border-radius: 2em 2em 2em 2em;
   }
 
