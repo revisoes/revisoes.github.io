@@ -1,0 +1,61 @@
+@media only screen and (min-width: 768px){
+  body {
+    
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url(https://c.wallhere.com/photos/a3/38/1360x768_px_Fire_Watch_Green_landscape_Moon_nature_night-1266367.jpg!d);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: black;
+  }
+  
+  h3 {
+  color: darkturquoise    
+  }
+
+  p{
+    color: red;  
+  }
+}
+
+  @media only screen and (max-width: 767px) {
+    html {
+      background: url(https://www.setaswall.com/wp-content/uploads/2017/10/Boat-Starry-Sky-Night-Wallpaper-720x1280.jpg) no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      height: 100%;
+      overflow: hidden;
+      z-index: inherit -1;
+      
+  }
+  
+  #menu{
+  top: 50%;
+  z-index: 5;
+  background: transparent;
+  color:red;
+  font-weight: bold;
+  font-size: large;
+  text-align: center;
+  border: solid green;
+  padding: 1em 1em 1em 1em;
+  box-shadow: 3px 3px 3px rgb(0, 0, 0);
+  border-radius: 2em 2em 2em 2em;
+  }
+
+  h3{
+    color: green
+  }
+
+  p{
+    color: green
+  }
+
+  #mmbio{
+    display: none
+  }
+  }
