@@ -44,7 +44,7 @@
   font-weight: bold;
   font-size: large;
   text-align: left;
-  border: solid hsla(241, 100%, 50%, 0.7);
+  border: solid green;
   border-right: none;
   padding: 1em 1em 1em 2.5em;
   box-shadow: 0 1px 3px rgb(0, 0, 0);
