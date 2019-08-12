@@ -1,33 +1,28 @@
-
-
-body {
-  margin: 0;
-  padding:0px;
-  padding-top: 0%;
-  top: 0px;
-  border-top: 0%;
-  font-size: 20px;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  width: 100%;
-  background-image: url(https://c.wallhere.com/photos/a3/38/1360x768_px_Fire_Watch_Green_landscape_Moon_nature_night-1266367.jpg!d);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  background-color: black
-}
-
-p{
-  color: red;
-  
-}
-
-@media only screen and (max-width: 767px){
 body{
   background-image: url(https://wallpaperplay.com/walls/full/3/2/a/210850.jpg)
 }
-
 }
 
+@media only screen and (min-width: 768px) {
 
-    
+  body {
+    margin: 0;
+    padding:0px;
+    padding-top: 0%;
+    top: 0px;
+    border-top: 0%;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100%;
+    background-image: url(https://c.wallhere.com/photos/a3/38/1360x768_px_Fire_Watch_Green_landscape_Moon_nature_night-1266367.jpg!d);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: black
+  }
+  
+  p{
+    color: red;  
+  }
+}
