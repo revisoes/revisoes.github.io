@@ -33,6 +33,24 @@
       
   }
   
+  #menu{
+  right: 0;
+  top: 50%;
+  width: 10em;
+  margin: -2.5em 0 0 0;
+  z-index: 5;
+  background: transparent;
+  color: white;
+  font-weight: bold;
+  font-size: large;
+  text-align: left;
+  border: solid hsla(241, 100%, 50%, 0.7);
+  border-right: none;
+  padding: 1em 1em 1em 2.5em;
+  box-shadow: 0 1px 3px rgb(0, 0, 0);
+  border-radius: 3em 1em 1em 3em;
+  }
+
   h3{
     color: green
   }
