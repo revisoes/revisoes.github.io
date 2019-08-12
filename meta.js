@@ -33,6 +33,23 @@
     else if (username=="biologia" && password=="vinigay") {window.location="biologia.html"; done=1; }
     else if (username=="quimica" && password=="vinigay") {window.location="quimica.html"; done=1; }
     //digaoviadasso??//
+    else if (username=="sociologia" && password=="lukinhass") {window.location="sociologia.html"; done=1; }
+    else if (username=="fisica" && password=="lukinhass") {window.location="fisica.html"; done=1; }
+    else if (username=="biologia" && password=="lukinhass") {window.location="biologia.html"; done=1; }
+    else if (username=="quimica" && password=="lukinhass") {window.location="quimica.html"; done=1; }
+    //lukinhas//
+    else if (username=="matematica" && password=="joaozyzz") {window.location="matematica.html"; done=1; }
+    else if (username=="sociologia" && password=="joaozyzz") {window.location="sociologia.html"; done=1; }
+    else if (username=="fisica" && password=="joaozyzz") {window.location="fisica.html"; done=1; }
+    else if (username=="biologia" && password=="joaozyzz") {window.location="biologia.html"; done=1; }
+    else if (username=="quimica" && password=="joaozyzzy") {window.location="quimica.html"; done=1; }
+    //joao//
+    else if (username=="matematica" && password=="josevit") {window.location="matematica.html"; done=1; }
+    else if (username=="sociologia" && password=="josevit") {window.location="sociologia.html"; done=1; }
+    else if (username=="fisica" && password=="josevit") {window.location="fisica.html"; done=1; }
+    else if (username=="biologia" && password=="josevit") {window.location="biologia.html"; done=1; }
+    else if (username=="quimica" && password=="josevit") {window.location="quimica.html"; done=1; }
+    //jose//
     else if (username=="biologia" && password=="dumbledore") {window.location="biologia.html"; done=1; }//sofia//
     if (done==0) { alert("Seu bosta!");}
     }
