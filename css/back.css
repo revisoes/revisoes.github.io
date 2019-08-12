@@ -32,6 +32,10 @@
       z-index: inherit -1;
       
   }
+  
+  p{
+    color: green
+  }
 
   #mmbio{
     display: none
