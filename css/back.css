@@ -35,5 +35,7 @@
       overflow: hidden;
   }
     
-    
+  #mmbio{
+    display: none
+  }
   }
