@@ -64,6 +64,7 @@
     //nugoli//
     else if (username=="biologia" && password=="lucascor") {window.location="biologia.html"; done=1; }
     //coronel//
+    else if (username=="sociologia" && password=="matyell") {window.location="sociologia.html"; done=1; }
 
     else if (username=="biologia" && password=="dumbledore") {window.location="biologia.html"; done=1; }//sofia//
     if (done==0) { alert("Seu bosta!");}
