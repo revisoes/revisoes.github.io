@@ -68,6 +68,8 @@
     //matheus amarelo//
     else if (username=="biologia" && password=="dumbledore") {window.location="biologia.html"; done=1; }
     //sofia//
+    else if (username=="biologia" && password=="bobdylan") {window.location="biologia.html"; done=1; }
+    //faisca//
     if (done==0) { alert("Seu bosta!");}
     }
   
