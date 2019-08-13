@@ -4,8 +4,6 @@
     username=username.toLowerCase();
     var password=document.login.password.value;
     psswaord=password.toLowerCase();
-
-  
   
     if (username=="matematica" && password=="jakobifoda") { window.location="matematica.html"; done=1; }
     if (username=="sociologia" && password=="jakobifoda") { window.location="sociologia.html"; done=1; }
