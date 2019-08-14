@@ -88,3 +88,9 @@
     display: none
   }
   }
+
+  #porra{ 
+    font-weight: bold;
+    font-size: 15px;
+    color: yellow
+  }
