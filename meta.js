@@ -49,6 +49,7 @@
     else if (username=="quimica" && password=="josevit") {window.location="quimica.html"; done=1; }
     //jose//
     else if (username=="fisica" && password=="gabkoz") {window.location="fisica.html"; done=1; }
+    else if (username=="sociologia" && password=="gabkoz") {window.location="sociologia.html"; done=1; }
     //gabriel/
     else if (username=="matematica" && password=="gustavorod") {window.location="matematica.html"; done=1; }
     else if (username=="sociologia" && password=="gustavorod") {window.location="sociologia.html"; done=1; }
