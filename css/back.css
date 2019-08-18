@@ -49,16 +49,13 @@
 
 /*celular apenas*/
   @media only screen and (max-width: 767px) {
-    html {
+    body {
       background-image:url(https://3diphonewallpaper.com/wp-content/uploads/2017/09/3D-Black-Polygons-Wallpaper-iPhone.jpg);
-      background-repeat:no-repeat;
-      background-size:contain;
-      background-position:center;
-      
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
       background-size: cover;
-      height: 100%;
-      overflow: hidden;
-      z-index: inherit -1;
+     background-color: black;
       
   }
   
