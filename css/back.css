@@ -46,7 +46,10 @@
 /*celular apenas*/
   @media only screen and (max-width: 767px) {
     html {
-      background-color: blueviolet;
+      background-image:url(/bg.jpg);
+      background-repeat:no-repeat;
+      background-size:contain;
+      background-position:center;
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
