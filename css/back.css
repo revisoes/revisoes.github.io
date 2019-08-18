@@ -46,7 +46,7 @@
 /*celular apenas*/
   @media only screen and (max-width: 767px) {
     html {
-      background-color: blueviolet no-repeat center center fixed;
+      background-color: blueviolet;
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
