@@ -41,6 +41,10 @@
   p{
     color: red;  
   }
+
+  #celularonly{
+    display: none
+  }
 }
 
 /*celular apenas*/
