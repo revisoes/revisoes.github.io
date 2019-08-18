@@ -58,19 +58,10 @@
   }
   
   #menu{
-  background: transparent;
-  z-index: 2;
-  color:red;
-  font-weight: bold;
-  font-size: large;
-  text-align: center;
-  border: solid green;
-  padding: 1em 1em 1em 1em;
-  box-shadow: 3px 3px 3px rgb(0, 0, 0);
-  border-radius: 2em 2em 2em 2em;
+  display: none;
   }
 
-  h3{
+  h3,h2{
     color: green
   }
 
