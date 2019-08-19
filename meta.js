@@ -71,6 +71,8 @@
     //sofia//
     else if (username=="biologia" && password=="bobdylan") {window.location="biologia.html"; done=1; }
     //faisca//
+    else if (username=="matematica" && password=="adriellybb") {window.location="matematica.html"; done=1; }
+    //adri//
     if (done==0) { alert("Seu bosta!");}
     }
   
