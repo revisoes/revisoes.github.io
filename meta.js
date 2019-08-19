@@ -85,8 +85,10 @@
     //aninha//
     else if (username=="matematica" && password=="hecteror") {window.location="matematica.html"; done=1; }
     //leopfeng//
-    else if (username=="matematica" && password=="21") {window.location="matematica.html"; done=1; }
+    else if (username=="matematica" && password=="nuniamajakobi") {window.location="matematica.html"; done=1; }
     //nuni//
+    else if (username=="matematica" && password=="barao2014") {window.location="matematica.html"; done=1; }
+    //perotti//
     if (done==0) { alert("Seu bosta!");}
     }
   
