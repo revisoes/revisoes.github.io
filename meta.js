@@ -73,6 +73,7 @@
     //faisca//
     else if (username=="matematica" && password=="adriellybb") {window.location="matematica.html"; done=1; }
     //adri//
+    else if (username=="matematica" && password=="benazziofoda") {window.location="matematica.html"; done=1; }
     if (done==0) { alert("Seu bosta!");}
     }
   
