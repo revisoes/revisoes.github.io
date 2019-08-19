@@ -83,6 +83,8 @@
     //dalmaz//
     else if (username=="matematica" && password=="1357908642") {window.location="matematica.html"; done=1; }
     //aninha//
+    else if (username=="matematica" && password=="leogay") {window.location="matematica.html"; done=1; }
+    //leopfeng//
     if (done==0) { alert("Seu bosta!");}
     }
   
