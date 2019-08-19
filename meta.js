@@ -87,8 +87,11 @@
     //leopfeng//
     else if (username=="matematica" && password=="nuniamajakobi") {window.location="matematica.html"; done=1; }
     //nuni//
+    else if (username=="matematica" && password=="reserv") {window.location="matematica.html"; done=1; }
+    //reserva//
     else if (username=="matematica" && password=="barao2014") {window.location="matematica.html"; done=1; }
     //perotti//
+    
     if (done==0) { alert("Seu bosta!");}
     }
   
