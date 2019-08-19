@@ -1,8 +1,11 @@
+var done = 0
+
 let senha = prompt("Confirme a sua senha")
 
 if (senha.toLocaleLowerCase=="jakobifoda"){
-    window.location="matematica.html"
+    window.location="matematica.html"; done = 1 
 }
-else {
-    window.location='index.html'
+else (done==0){
+    alert="erro";
+    window.location=""
 }
