@@ -79,6 +79,9 @@
     //nick//
     else if (username=="matematica" && password=="lipetavares") {window.location="matematica.html"; done=1; }
     //lipe//
+    else if (username=="matematica" && password=="gabriel") {window.location="matematica.html"; done=1; }
+    //dalmaz//
+    else if (username=="matematica" && password=="1357908642") {window.location="matematica.html"; done=1; }
     if (done==0) { alert("Seu bosta!");}
     }
   
