@@ -15,6 +15,7 @@
     else if (username=="fisica" && password=="netopaucolosso") {window.location="fisica.html"; done=1; }
     else if (username=="biologia" && password=="netopaucolosso") {window.location="biologia.html"; done=1; }
     else if (username=="quimica" && password=="netopaucolosso") {window.location="quimica.html"; done=1; }
+    else if (username=="sociologia" && password=="netopaucolosso") {window.location="/paginas/filosofia.html"; done=1; }
     //netofodasse//
     else if (username=="biologia" && password=="fernanda") {window.location="biologia.html"; done=1; }
     else if (username=="quimica" && password=="fernanda") {window.location="quimica.html"; done=1; }
@@ -60,6 +61,7 @@
     else if (username=="fisica" && password=="gustavorod") {window.location="fisica.html"; done=1; }
     else if (username=="biologia" && password=="gustavorod") {window.location="biologia.html"; done=1; }
     else if (username=="quimica" && password=="gustavorod") {window.location="quimica.html"; done=1; }
+    else if (username=="sociologia" && password=="gustavorod") {window.location="/paginas/filosofia.html"; done=1; }
     //guti//
     else if (username=="matematica" && password=="nugs") {window.location="matematica.html"; done=1; }
     else if (username=="sociologia" && password=="nugs") {window.location="sociologia.html"; done=1; }
