@@ -53,6 +53,8 @@
     else if (username=="fisica" && password=="gabkoz") {window.location="fisica.html"; done=1; }
     else if (username=="sociologia" && password=="gabkoz") {window.location="sociologia.html"; done=1; }
     //gabriel/
+    else if (username=="filosofia" && password=="vinife") {window.location="/paginas/filosofia.html"; done=1; }
+    //vinife//
     else if (username=="matematica" && password=="gustavorod") {window.location="matematica.html"; done=1; }
     else if (username=="sociologia" && password=="gustavorod") {window.location="sociologia.html"; done=1; }
     else if (username=="fisica" && password=="gustavorod") {window.location="fisica.html"; done=1; }
@@ -70,9 +72,12 @@
     else if (username=="sociologia" && password=="matyell") {window.location="sociologia.html"; done=1; }
     //matheus amarelo//
     else if (username=="biologia" && password=="dumbledore") {window.location="biologia.html"; done=1; }
+    else if (username=="filosofia" && password=="dumbledore") {window.location="/paginas/filosofia.html"; done=1; }
     //sofia//
     else if (username=="biologia" && password=="bobdylan") {window.location="biologia.html"; done=1; }
     //faisca//
+    else if (username=="filosofia" && password=="rojaojicardo") {window.location="/paginas/filosofia.html"; done=1; }
+    //joaor//
     else if (username=="matematica" && password=="adriellybb") {window.location="matematica.html"; done=1; }
     //adri//
     else if (username=="matematica" && password=="benazziofoda") {window.location="matematica.html"; done=1; }
