@@ -12,6 +12,12 @@
     background-color: black;
   }
 
+  #login {
+    background-color: transparent;
+    border-radius: 10px;
+    
+  }
+
   #menu {
     position: fixed;
     top: 10%;
