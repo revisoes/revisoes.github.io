@@ -10,7 +10,24 @@
     background-attachment: fixed;
     background-size: cover;
     background-color: black;
+  
+  
   }
+
+  #baixar {
+    font-size: 40px hsla(241, 100%, 50%, 0.7);
+    text-shadow: 2px ;
+}
+
+
+  #linkbio {
+    color: green ;
+    text-decoration: none; 
+}
+#linkaqui {
+    color: red;
+    text-decoration: none;
+}
 
   #login {
     background-color: transparent;
